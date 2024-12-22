@@ -1,0 +1,5 @@
+# model and label files
+*.onnx
+*.ort
+*.txt
+*.mp4
